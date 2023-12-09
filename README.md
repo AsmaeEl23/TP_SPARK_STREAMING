@@ -7,6 +7,4 @@
 <h5>Application 2</h5>
 <p>Words count</p>
 <h3>Activite pratique</h3>
-<p>1. Afficher d’une manière continue le nombre d’incidents par service.</p>
-
-
+<p>Class App</p>
